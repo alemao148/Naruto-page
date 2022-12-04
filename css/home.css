@@ -1,7 +1,7 @@
 .home{
     height: 100vh;
     width: 100%;
-    background-image: url(./img/naruto.png);
+    background-image: url(./img/home.png);
     background-repeat: no-repeat;
     background-size: cover;
  
@@ -43,7 +43,3 @@
     padding: 45px;
 }
 
-.sobre{
-    height: 100vh;
-    background-color: aqua;
-}
