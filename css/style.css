@@ -12,3 +12,10 @@ main{
     height: 100%;
     width: 100%;
 }
+
+footer{
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
